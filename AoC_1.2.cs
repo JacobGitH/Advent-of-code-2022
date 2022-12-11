@@ -35,9 +35,6 @@ namespace test // Note: actual namespace depends on the project name.
             }
 
             Console.WriteLine(topThree[0] + topThree[1] + topThree[2]);
-            //Console.WriteLine(topThree[0]);
-           // Console.WriteLine(topThree[1]);
-            //Console.WriteLine(topThree[2]);
         }
     }
 }
